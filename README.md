@@ -23,7 +23,7 @@ This project is a website aimed at promoting mental health and wellbeing. It off
 The website is deployed and accessible at [GitHub Repository](https://github.com/Nakkkkkul0130/WellBeing)
 
 ## Credits
-- **Nakul Bhar**: Creator of the website. You can find more about Ankush on [GitHub](https://github.com/Nakkkkkul0130/WellBeing), [LinkedIn](https://www.linkedin.com/in/nakul-bhar0130/), and [Twitter](https://twitter.com/Nakulbhar001).
+- **Nakul Bhar**: Creator of the website. You can find more about Nakul on [GitHub](https://github.com/Nakkkkkul0130/WellBeing), [LinkedIn](https://www.linkedin.com/in/nakul-bhar0130/), and [Twitter](https://twitter.com/Nakulbhar001).
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
